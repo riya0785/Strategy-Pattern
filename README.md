@@ -27,5 +27,5 @@ This Java project simulates different types of ducks with various behaviours. It
 
 - Riya Shukla
 
-# Feel free to modify and extend the code according to your needs.
+Feel free to modify and extend the code according to your needs.
 
